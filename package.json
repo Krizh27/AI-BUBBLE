@@ -1,0 +1,13 @@
+{
+  "name": "ai-bubble-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for The AI Bubble Report website",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
